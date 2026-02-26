@@ -36,8 +36,8 @@ Replaces the default speedometer with fully custom, game-inspired instrument clu
 
 ## 🔧 Installation
 
-1. Download the latest `.ksm` from the [Releases](../../releases) page
-2. Place it in your KSL mods folder:
+1. Download the latest `.zip` from the [Releases](../../releases) page
+2. Unpack and place `.ksm` it in your KSL mods folder (or update in KSL):
    ```
    CarX Drift Racing Online\Mods\
    ```
