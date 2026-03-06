@@ -26,6 +26,7 @@ Replaces the default speedometer with fully custom, game-inspired instrument clu
 | NFSU2 | Need for Speed Underground 2 |
 | NFS2015 | Need for Speed (2015) |
 | InitialD | Initial D |
+| WM3 | Wangan Midnight |
 
 ### Another HUDs
 | Theme | Description |
